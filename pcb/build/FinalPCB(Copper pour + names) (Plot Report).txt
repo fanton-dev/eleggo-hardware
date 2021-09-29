@@ -1,0 +1,313 @@
+Plot Report
+-----------
+
+Report Written:     Wednesday, September 29, 2021
+Design Path:        C:\Users\Miro\Desktop\Aide na novo\Platka Na 4isto\Nai-nova-versiq3\PCB(CopperPour + Names)\FinalPCB(Copper pour + names).pcb
+Design Title:       
+Created:            9/24/2021 4:21:51 PM
+Last Saved:         9/29/2021 9:40:06 PM
+Editing Time:       4581 min
+Units:              mil (precision 0)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 2
+    Format 3.5 absolute in inches.
+    Zero suppression Leading
+
+
+
+Plots Output
+============
+
+
+Gerber Output
+=============
+
+C:\Users\Miro\Desktop\Aide na novo\Platka Na 4isto\Nai-nova-versiq3\PCB(CopperPour + Names)\FinalPCB(Copper pour + names) - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D10    Round 8.00
+    D11    Round 20.00
+    D12    Round 40.00
+    D13    Rectangle 11.81 X 47.24
+    D14    Rectangle 11.81 X 47.24  Rotation 90
+    D15    Rectangle 24.00 X 24.00
+    D16    Rectangle 23.62 X 47.24
+    D17    Rectangle 24.00 X 24.00  Rotation 90
+    D18    Rectangle 39.40 X 43.30  Rotation 90
+    D19    Square 63.00
+    D70    Rectangle 21.65 X 47.24
+    D71    Rectangle 39.40 X 43.30
+    D20    Rectangle 39.37 X 42.91
+    D21    Rectangle 26.00 X 42.00
+    D22    Rectangle 16.00 X 35.00
+    D23    Rectangle 10.00 X 27.56  Rotation 90
+    D24    Rectangle 10.00 X 27.56
+    D25    Rectangle 18.00 X 46.00
+    D26    Rectangle 59.00 X 134.00  Rotation 90
+    D27    Rectangle 39.00 X 138.00  Rotation 90
+    D28    Square 60.00
+    D29    Rectangle 39.37 X 42.91  Rotation 90
+    D72    Rectangle 17.00 X 72.00
+    D73    Rectangle 55.00 X 71.00  Rotation 90
+    D74    Rectangle 27.00 X 63.00  Rotation 90
+    D75    Round 36.00
+    D76    Rectangle 47.00 X 87.00  Rotation 90
+    D77    Rectangle 55.00 X 63.00
+    D78    Rectangle 47.00 X 63.00  Rotation 90
+    D79    Rectangle 22.83 X 47.64
+
+Gerber Output
+=============
+
+C:\Users\Miro\Desktop\Aide na novo\Platka Na 4isto\Nai-nova-versiq3\PCB(CopperPour + Names)\FinalPCB(Copper pour + names) - Top Solder Mask.gbr
+
+    Layers:
+    -------------------
+    Top Solder Mask
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D80    Round 46.00
+    D81    Round 138.00
+    D82    Rectangle 17.81 X 53.24
+    D83    Rectangle 17.81 X 53.24  Rotation 90
+    D84    Rectangle 30.00 X 30.00
+    D85    Rectangle 29.62 X 53.24
+    D86    Rectangle 30.00 X 30.00  Rotation 90
+    D87    Rectangle 45.40 X 49.30  Rotation 90
+    D88    Square 69.00
+    D89    Rectangle 27.65 X 53.24
+    D90    Rectangle 45.40 X 49.30
+    D91    Rectangle 45.37 X 48.91
+    D92    Rectangle 32.00 X 48.00
+    D93    Round 5.00
+    D94    Rectangle 22.00 X 41.00
+    D95    Rectangle 16.00 X 33.56  Rotation 90
+    D96    Rectangle 16.00 X 33.56
+    D97    Rectangle 24.00 X 52.00
+    D98    Rectangle 65.00 X 140.00  Rotation 90
+    D99    Rectangle 45.00 X 144.00  Rotation 90
+    D100   Square 66.00
+    D101   Rectangle 45.37 X 48.91  Rotation 90
+    D102   Rectangle 23.00 X 78.00
+    D103   Rectangle 61.00 X 77.00  Rotation 90
+    D104   Rectangle 33.00 X 69.00  Rotation 90
+    D105   Round 42.00
+    D106   Rectangle 53.00 X 93.00  Rotation 90
+    D107   Rectangle 61.00 X 69.00
+    D108   Rectangle 53.00 X 69.00  Rotation 90
+    D109   Rectangle 28.83 X 53.64
+
+Gerber Output
+=============
+
+C:\Users\Miro\Desktop\Aide na novo\Platka Na 4isto\Nai-nova-versiq3\PCB(CopperPour + Names)\FinalPCB(Copper pour + names) - Top Paste Mask.gbr
+
+    Layers:
+    ------------------
+    Top Paste Mask
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D110   Rectangle 5.81 X 41.24
+    D111   Rectangle 5.81 X 41.24  Rotation 90
+    D112   Rectangle 18.00 X 18.00
+    D113   Rectangle 17.62 X 41.24
+    D114   Rectangle 18.00 X 18.00  Rotation 90
+    D115   Rectangle 33.40 X 37.30  Rotation 90
+    D116   Square 57.00
+    D117   Rectangle 15.65 X 41.24
+    D118   Rectangle 33.40 X 37.30
+    D119   Rectangle 33.37 X 36.91
+    D120   Rectangle 20.00 X 36.00
+    D121   Rectangle 10.00 X 29.00
+    D122   Rectangle 4.00 X 21.56  Rotation 90
+    D123   Rectangle 4.00 X 21.56
+    D124   Rectangle 12.00 X 40.00
+    D125   Rectangle 53.00 X 128.00  Rotation 90
+    D126   Rectangle 33.00 X 132.00  Rotation 90
+    D127   Rectangle 33.37 X 36.91  Rotation 90
+    D128   Rectangle 11.00 X 66.00
+    D129   Rectangle 49.00 X 65.00  Rotation 90
+    D130   Rectangle 21.00 X 57.00  Rotation 90
+    D131   Rectangle 41.00 X 81.00  Rotation 90
+    D132   Rectangle 49.00 X 57.00
+    D133   Rectangle 41.00 X 57.00  Rotation 90
+    D134   Rectangle 16.83 X 41.64
+
+Gerber Output
+=============
+
+C:\Users\Miro\Desktop\Aide na novo\Platka Na 4isto\Nai-nova-versiq3\PCB(CopperPour + Names)\FinalPCB(Copper pour + names) - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 8.00
+    D93    Round 5.00
+    D135   Round 10.00
+    D136   Round 6.00
+    D137   Round 7.87
+    D138   Round 1.97
+
+Gerber Output
+=============
+
+C:\Users\Miro\Desktop\Aide na novo\Platka Na 4isto\Nai-nova-versiq3\PCB(CopperPour + Names)\FinalPCB(Copper pour + names) - Documentation.gbr
+
+    Layers:
+    -----------------
+    Documentation
+
+    D-Code Shape  (thou)
+    -----------------------
+    D93    Round 5.00
+    D137   Round 7.87
+
+Gerber Output
+=============
+
+C:\Users\Miro\Desktop\Aide na novo\Platka Na 4isto\Nai-nova-versiq3\PCB(CopperPour + Names)\FinalPCB(Copper pour + names) - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 8.00
+    D11    Round 20.00
+    D12    Round 40.00
+    D28    Square 60.00
+    D75    Round 36.00
+    D139   Round 25.00
+
+Gerber Output
+=============
+
+C:\Users\Miro\Desktop\Aide na novo\Platka Na 4isto\Nai-nova-versiq3\PCB(CopperPour + Names)\FinalPCB(Copper pour + names) - Bottom Solder Mask.gbr
+
+    Layers:
+    ----------------------
+    Bottom Solder Mask
+
+    D-Code Shape  (thou)
+    -----------------------
+    D80    Round 46.00
+    D81    Round 138.00
+    D100   Square 66.00
+    D105   Round 42.00
+
+Gerber Output
+=============
+
+C:\Users\Miro\Desktop\Aide na novo\Platka Na 4isto\Nai-nova-versiq3\PCB(CopperPour + Names)\FinalPCB(Copper pour + names) - Bottom Paste Mask.gbr
+
+    Layers:
+    ---------------------
+    Bottom Paste Mask
+
+    D-Code Shape  (thou)
+    -----------------------
+
+NC Drill Output
+===============
+
+C:\Users\Miro\Desktop\Aide na novo\Platka Na 4isto\Nai-nova-versiq3\PCB(CopperPour + Names)\FinalPCB(Copper pour + names) - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+
+    Tool  Size           Count   ID
+    --------------------------------------
+    T001  0.02400 inches 135   A
+    T002  0.03500 inches 72    C
+    T003  0.18500 inches 4     B
+    --------------------------------------
+    Total                211
+    --------------------------------------
+
+C:\Users\Miro\Desktop\Aide na novo\Platka Na 4isto\Nai-nova-versiq3\PCB(CopperPour + Names)\FinalPCB(Copper pour + names) - Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+
+    Tool  Size           Count   ID
+    --------------------------------------
+    T001  0.03500 inches 2     D
+    --------------------------------------
+    Total                2
+    --------------------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\Miro\Desktop\Aide na novo\Platka Na 4isto\Nai-nova-versiq3\PCB(CopperPour + Names)\FinalPCB(Copper pour + names) - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    24    Y      100  Round A
+    185   Y      100  Round B
+    35    Y      100  Round C
+    35           100  Round D
+
+    D-Code Shape  (thou)
+    -----------------------
+    D93    Round 5.00
+    D140   Round 100.00
+
+Gerber Output
+=============
+
+C:\Users\Miro\Desktop\Aide na novo\Platka Na 4isto\Nai-nova-versiq3\PCB(CopperPour + Names)\FinalPCB(Copper pour + names) - Board Outline.gbr
+
+    Layers:
+    ------------------
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D141   Round 12.00
+
+End Of Report.
